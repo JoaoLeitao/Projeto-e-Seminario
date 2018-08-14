@@ -1,5 +1,5 @@
 # Projeto-e-Seminario
-Unidade Curricular Projeto e Seminário em que se realiza o projeto final de licenciatura
+Unidade Curricular Projeto e Seminário em que se realiza o projeto final de licenciatura.
 
 É possível obter informação sobre o projeto lendo o [resumo](https://github.com/JoaoLeitao/Projeto-e-Seminario/wiki/Resumo) do mesmo.
 
