@@ -1,0 +1,21 @@
+Descrição do conteúdo do dossier do projeto:
+
+	O ficheiro Resumo.pdf contém o resumo do projeto incluindo os seus participantes.
+
+	O ficheiro Cartaz.pdf contém o cartaz do projeto.
+
+	O ficheiro Relatório.pdf contém o relatório do projeto.
+
+	O ficheiro PetVet.oap contém o código do projeto OutSystems.
+
+	O ficheiro FullCalendar 2.oap é um plugin utilizado no projeto contido em PetVet.oap.
+
+	O ficheiro ardoJSON.oap é um plugin utilizado no plugin anterior, FullCalendar 2.oap.
+
+Acesso à implementação do projeto:
+
+	A instalação dos ficheiros .oap mencionados anteriormente, é feita no ambiente de 
+	desenvolvimento OutSystems, através da ferramenta Service Studio na seguinte ordem:
+		1º: ardoJSON.oap
+		2º: FullCalendar 2.oap
+		3º: PetVet.oap
